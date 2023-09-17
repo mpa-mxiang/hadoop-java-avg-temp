@@ -1,0 +1,1 @@
+# hadoop-java-avg-temp
